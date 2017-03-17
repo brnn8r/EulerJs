@@ -1,0 +1,23 @@
+{
+  "name": "euler",
+  "version": "1.0.0",
+  "description": "Node JS project Euler implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brnn8r/EulerJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brnn8r/EulerJs/issues"
+  },
+  "homepage": "https://github.com/brnn8r/EulerJs#readme",
+  "devDependencies": {
+    "eslint": "^3.17.1",
+    "eslint-config-google": "^0.7.1"
+  }
+}
